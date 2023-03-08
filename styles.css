@@ -1,0 +1,57 @@
+body{
+    margin-top: 150px;
+    background-image: url(https://img.freepik.com/free-photo/top-view-open-notepad_140725-133061.jpg?w=996&t=st=1678253632~exp=1678254232~hmac=8c766edcb302106c5c6c10329c0e2c0291637169f3d2cb8d06f1e7b18c4368f9);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#v{
+  border-radius: 2px;
+  border-color:aliceblue;
+  width:200px;
+}
+.tag{
+  font-size: 30px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+form{
+    border-radius: 5px;
+    height:515px;
+    width:475px;
+  background-color: #747767;
+  padding: 20px;
+  margin-left: 143px;
+}
+.box{
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+  width:430px;
+  box-shadow: 30px;
+}
+
+.button-40 {
+  background-color: #111827;
+  border: 1px solid transparent;
+  border-radius: .75rem;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  font-family: "Inter var",ui-sans-serif,system-ui,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 14px;
+  height: 30px;
+  width:80px;
+  font-weight: 600;
+  text-align: center;
+  
+}
+
+.button-40:hover {
+  background-color: #374151;
+}
+pre {
+  font-family: Verdana, "Bitstream Vera Sans", Geneva, sans-serif;
+  font-size: 17px;
+  margin-top: 20px;
+}
+
+
